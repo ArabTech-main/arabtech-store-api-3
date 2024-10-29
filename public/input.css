@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+main{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(247, 247, 247);
+}
+main section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+main section div {
+    font-size: x-large;
+    font-weight: bold;
+    font-family: system-ui;
+    color: #F98D67;
+    user-select: none;
+}

@@ -1,0 +1,243 @@
+[
+  {
+    "title": "Wireless Ergonomic Mouse",
+    "price": 49.99,
+    "featured": true,
+    "category": "PC & Phone Accessories",
+    "mainImage": "https://res.cloudinary.com/dl1yat4by/image/upload/v1718998399/mouse_m6e8va.jpg",
+    "productImages": [
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718998399/mouse_m6e8va.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718998404/mouse1_f823uy.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718998417/mouse2_t4p7is.jpg"
+    ],
+    "shipping": true,
+    "colors": ["#000000", "#FFFFFF", "#FF5733"],
+    "featureImages": [
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718998399/mouse_m6e8va.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718998404/mouse1_f823uy.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718998417/mouse2_t4p7is.jpg"
+    ],
+    "mainDescription": "فأرة مريحة وفعالة لاسلكية بتصميم مريح للاستخدام الطويل. تتميز بأزرار قابلة للتخصيص وإعدادات DPI قابلة للتعديل.",
+  
+    "featureDescription": "فأرة مريحة وفعالة لاسلكية بتصميم مريح للاستخدام الطويل. تتميز بأزرار قابلة للتخصيص وإعدادات DPI قابلة للتعديل.",
+    
+    "listFeature": [
+      "تصميم مريح",
+      "اتصال لاسلكي",
+      "DPI قابل للتعديل",
+      "أزرار قابلة للتخصيص"
+    ]
+    
+  },
+  {
+    "title": "Bluetooth Mechanical Keyboard",
+    "price": 79.99,
+    "featured": false,
+    "category": "PC & Phone Accessories",
+    "mainImage": "https://res.cloudinary.com/dl1yat4by/image/upload/v1718998426/clavier1_wnnzvq.jpg",
+    "productImages": [
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718998426/clavier1_wnnzvq.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718998426/clavier-2_avvl00.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718998427/clavier-3_ehu4ti.jpg"
+    ],
+    "shipping": true,
+    "colors": ["#000000", "#F5F5F5", "#FF5733"],
+    "featureImages": [
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718998426/clavier1_wnnzvq.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718998730/clavier-souris_tdy9j0.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718998426/clavier-2_avvl00.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718998427/clavier-3_ehu4ti.jpg"
+    ],
+    "mainDescription": "لوحة مفاتيح ميكانيكية عالية الأداء بتقنية البلوتوث مع إضاءة RGB قابلة للتخصيص وتصميم مريح.",
+  
+    "featureDescription": "لوحة مفاتيح ميكانيكية عالية الأداء بتقنية البلوتوث مع إضاءة RGB قابلة للتخصيص وتصميم مريح.",
+    
+    "listFeature": [
+      "مفاتيح ميكانيكية",
+      "اتصال بلوتوث",
+      "إضاءة RGB",
+      "تصميم مريح"
+    ]
+  },
+  {
+    "title": "Adjustable Laptop Stand",
+    "price": 59.99,
+    "featured": false,
+    "category": "PC & Phone Accessories",
+    "mainImage": "https://res.cloudinary.com/dl1yat4by/image/upload/v1718998471/pc_support_sphpny.png",
+    "productImages": [
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718998471/pc_support_sphpny.png",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718998471/pc-support_oewukg.jpg"
+    ],
+    "shipping": true,
+    "colors": ["#000000", "#FFFFFF", "#AAAAAA"],
+    "featureImages": [
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718998471/pc_support_sphpny.png",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718998471/pc-support_oewukg.jpg"
+    ],
+    "mainDescription": "حامل كمبيوتر محمول قابل للتعديل بتصميم أنيق، مثالي لتحسين مساحة العمل وتحسين وضعية الجلوس.",
+  
+    "featureDescription": "حامل كمبيوتر محمول قابل للتعديل بتصميم أنيق، مثالي لتحسين مساحة العمل وتحسين وضعية الجلوس.",
+    
+    "listFeature": [
+      "ارتفاع وزاوية قابلة للتعديل",
+      "بناء قوي ومتين",
+      "قاعدة مانعة للانزلاق",
+      "محمول وخفيف الوزن"
+    ]
+  },
+  
+
+  {
+    "title": "Fitness Tracker Smartwatch",
+    "price": 99.99,
+    "featured": true,
+    "category": "Smartwatches",
+    "mainImage": "https://res.cloudinary.com/dl1yat4by/image/upload/v1718997879/smartwarcha1_fm62ti.jpg",
+    "productImages": [
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718997879/smartwarcha1_fm62ti.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718997872/smartwarcha2_qcbfvo.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718997872/smartwarcha3_mymmel.jpg"
+
+    ],
+    "shipping": true,
+    "colors": ["#000000", "#00FF00", "#0000FF"],
+    "featureImages": [
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718997879/smartwarcha1_fm62ti.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718997872/smartwarcha2_qcbfvo.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718997872/smartwarcha3_mymmel.jpg"
+    ],
+    "mainDescription": "ساعة ذكية لتتبع اللياقة البدنية بتصميم أنيق مع مراقبة معدل ضربات القلب وGPS وأنماط رياضية متعددة.",
+  
+    "featureDescription": "ساعة ذكية لتتبع اللياقة البدنية بتصميم أنيق مع مراقبة معدل ضربات القلب وGPS وأنماط رياضية متعددة.",
+    
+    "listFeature": [
+      "مراقبة معدل ضربات القلب",
+      "تتبع GPS",
+      "أنماط رياضية متعددة",
+      "مقاومة للماء"
+    ]
+  },
+  {
+    "title": "Luxury Smartwatch",
+    "price": 199.99,
+    "featured": false,
+    "category": "Smartwatches",
+    "mainImage": "https://res.cloudinary.com/dl1yat4by/image/upload/v1718997872/smartwarchb2_xisnvz.jpg",
+    "productImages": [
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718997872/smartwarchb2_xisnvz.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718997850/smartwarchb3_sc8co4.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718997881/smartwarchb1_b4xfs2.jpg"
+    ],
+    "shipping": true,
+    "colors": ["#FFFFFF", "#FF5733", "#0000FF"],
+    "featureImages": [
+      
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718997872/smartwarchb2_xisnvz.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718740277/photo-1715420078667-e3e1cae7959c_z1uaze.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718997850/smartwarchb3_sc8co4.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718997881/smartwarchb1_b4xfs2.jpg"
+    ],
+    "mainDescription": "ساعة ذكية فاخرة بمواد ممتازة، تتبع صحي متقدم، ووجوه ساعة قابلة للتخصيص.",
+  
+    "featureDescription": "ساعة ذكية فاخرة بمواد ممتازة، تتبع صحي متقدم، ووجوه ساعة قابلة للتخصيص.",
+    
+    "listFeature": [
+      "مواد ممتازة",
+      "تتبع صحي متقدم",
+      "وجوه ساعة قابلة للتخصيص",
+      "مقاومة للماء"
+    ]
+  },
+
+  {
+    "title": "Noise Cancelling Headphones",
+    "price": 149.99,
+    "featured": false,
+    "category": "Headphones",
+    "mainImage": "https://res.cloudinary.com/dl1yat4by/image/upload/v1718998871/casque1_rbyg7i.jpg",
+    "productImages": [
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718998871/casque1_rbyg7i.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718998873/casque3_zcydkb.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718998872/casque2_h2ihsv.jpg"
+    ],
+    "shipping": true,
+    "colors": ["#000000", "#CCCCCC", "#FF5733"],
+    "featureImages": [
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718998871/casque1_rbyg7i.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718998873/casque3_zcydkb.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718998872/casque2_h2ihsv.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718998974/casque_qenp3p.jpg"
+    ],
+   "mainDescription": "سماعات رأس عالية الجودة لإلغاء الضوضاء مع عمر بطارية طويل وجودة صوت فائقة.",
+  
+    "featureDescription": "سماعات رأس عالية الجودة لإلغاء الضوضاء مع عمر بطارية طويل وجودة صوت فائقة.",
+    
+    "listFeature": [
+      "إلغاء الضوضاء",
+      "عمر بطارية طويل",
+      "جودة صوت فائقة",
+      "تصميم مريح"
+    ]
+  },
+  {
+    "title": "Bluetooth Sport Earbuds",
+    "price": 79.99,
+    "featured": false,
+    "category": "Headphones",
+    "mainImage": "https://res.cloudinary.com/dl1yat4by/image/upload/v1718999032/headphoneB1_l0d0id.jpg",
+    "productImages": [
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718999032/headphoneB1_l0d0id.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718999037/headphoneB2_mwnkpc.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718999041/headphoneB3_jghykc.jpg"
+    ],
+    "shipping": true,
+    "colors": ["#FF0000", "#00FF00", "#0000FF"],
+    "featureImages": [
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718999032/headphoneB1_l0d0id.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718999037/headphoneB2_mwnkpc.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718999041/headphoneB3_jghykc.jpg"
+    ],
+    "mainDescription": "سماعات رياضية بتقنية البلوتوث خفيفة الوزن ومتينة مصممة لأنماط الحياة النشطة.",
+  
+    "featureDescription": "سماعات رياضية بتقنية البلوتوث خفيفة الوزن ومتينة مصممة لأنماط الحياة النشطة.",
+    
+    "listFeature": [
+      "مقاومة للعرق",
+      "ثبات مريح",
+      "بلوتوث 5.0",
+      "صوت عالي الجودة"
+    ]
+  },
+  {
+    "title": "Bluetooth Earbuds",
+    "price": 99.99,
+    "featured": true,
+    "category": "Headphones",
+    "mainImage": "https://res.cloudinary.com/dl1yat4by/image/upload/v1718999045/headphoneA1_mgzr9v.jpg",
+    "productImages": [
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718999045/headphoneA1_mgzr9v.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718999030/headphoneA3_wpbitc.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718999030/headphoneA2_jibhei.jpg"
+    ],
+    "shipping": true,
+    "colors": ["#000000", "#FFFFFF", "#FF5733"],
+    "featureImages": [
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718999045/headphoneA1_mgzr9v.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718999030/headphoneA3_wpbitc.jpg",
+      "https://res.cloudinary.com/dl1yat4by/image/upload/v1718999030/headphoneA2_jibhei.jpg"
+    ],
+    "mainDescription": "سماعات بلوتوث عالية الدقة بجودة صوت فائقة، وعمر بطارية طويل، وتصميم مريح وآمن.",
+    
+    "featureDescription": "سماعات بلوتوث عالية الدقة بجودة صوت فائقة، وعمر بطارية طويل، وتصميم مريح وآمن.",
+    
+    "listFeature": [
+      "جودة صوت فائقة",
+      "عمر بطارية طويل",
+      "ثبات مريح وآمن",
+      "مقاومة للماء"
+    ]
+  }
+  
+  
+]
